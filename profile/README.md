@@ -1,8 +1,4 @@
-**Jump is a technology platform specifically built to**
-
-**personalize the fan experience and**
-
-**unlock new revenue opportunities for teams.**
+**Jump is a technology platform specifically built to** **personalize the fan experience and** **unlock new revenue opportunities for teams.**
 
 ## We’re hiring!
 
